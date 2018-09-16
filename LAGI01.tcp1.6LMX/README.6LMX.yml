@@ -49,3 +49,4 @@ citations: O<E2><80><99>Rourke JA, Yang SS, Miller SS, et al. An RNA-Seq Transcr
 file_transformation: 
 changes: 
   - 2018-04-19 Added MANIFEST files
+  - 2018-09-15 Added fasta header prefixing (s/>/>lupal.LAGI01.tcp1./)
