@@ -1,0 +1,7 @@
+%YAML 1.2
+---
+#filename in this repository: previous name
+lupal.Amiga.gnm1.ann0.3GKS.cds.fna.gz: cds.fasta
+lupal.Amiga.gnm1.ann0.3GKS.gene_models_main.gff3.gz: Lalbus-20171117r1-v1.annot.gff3 Lalb_mitochondrion.zip:Lalb_mitochondrion.gff3 Lalb_chloroplast.zip:Lalb_chloroplast.gff
+lupal.Amiga.gnm1.ann0.3GKS.mRNA.fna.gz: mrna.fasta
+lupal.Amiga.gnm1.ann0.3GKS.protein.faa.gz: prot.fasta

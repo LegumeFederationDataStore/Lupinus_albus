@@ -1,0 +1,7 @@
+%YAML 1.2
+---
+#filename in this repository: description
+lupal.Amiga.gnm1.ann0.3GKS.cds.fna.gz: coding sequence
+lupal.Amiga.gnm1.ann0.3GKS.gene_models_main.gff3.gz: gene models, nuclear + organelles
+lupal.Amiga.gnm1.ann0.3GKS.mRNA.fna.gz : mRNA sequence
+lupal.Amiga.gnm1.ann0.3GKS.protein.faa.gz: protein sequence
